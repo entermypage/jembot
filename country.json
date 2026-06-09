@@ -1,8 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "list": [
     {"n":"Indonesia","f":"🇮🇩","m":["indonesia","id"],"c":true},
     {"n":"Malaysia","f":"🇲🇾","m":["malaysia","my"],"c":false},
+    {"n":"India","f":"🇮🇳","m":["india","in"],"c":false},
     {"n":"Amerika Serikat","f":"🇺🇸","m":["united states","america","us","united states of america"],"c":false},
     {"n":"Jerman","f":"🇩🇪","m":["germany","deutschland","de"],"c":false},
     {"n":"Australia","f":"🇦🇺","m":["australia","au"],"c":false},
@@ -23,6 +24,31 @@
     {"n":"Portugal","f":"🇵🇹","m":["portugal","pt"],"c":false},
     {"n":"Selandia Baru","f":"🇳🇿","m":["new zealand","nz"],"c":false},
     {"n":"Afrika Selatan","f":"🇿🇦","m":["south africa","za"],"c":false},
-    {"n":"Singapura","f":"🇸🇬","m":["singapore","sg"],"c":false}
+    {"n":"Singapura","f":"🇸🇬","m":["singapore","sg"],"c":false},
+    {"n":"Albania","f":"🇦🇱","m":["albania","al"],"c":false},
+    {"n":"Belarus","f":"🇧🇾","m":["belarus","by"],"c":false},
+    {"n":"Bosnia","f":"🇧🇦","m":["bosnia","bosnia and herzegovina","ba"],"c":false},
+    {"n":"Bulgaria","f":"🇧🇬","m":["bulgaria","bg"],"c":false},
+    {"n":"Kroasia","f":"🇭🇷","m":["croatia","hr"],"c":false},
+    {"n":"Cekia","f":"🇨🇿","m":["czech","czechia","cz"],"c":false},
+    {"n":"Estonia","f":"🇪🇪","m":["estonia","ee"],"c":false},
+    {"n":"Yunani","f":"🇬🇷","m":["greece","gr"],"c":false},
+    {"n":"Hongaria","f":"🇭🇺","m":["hungary","hu"],"c":false},
+    {"n":"Irlandia","f":"🇮🇪","m":["ireland","ie"],"c":false},
+    {"n":"Islandia","f":"🇮🇸","m":["iceland","is"],"c":false},
+    {"n":"Kosovo","f":"🇽🇰","m":["kosovo","xk"],"c":false},
+    {"n":"Latvia","f":"🇱🇻","m":["latvia","lv"],"c":false},
+    {"n":"Lithuania","f":"🇱🇹","m":["lithuania","lt"],"c":false},
+    {"n":"Luxembourg","f":"🇱🇺","m":["luxembourg","lu"],"c":false},
+    {"n":"Malta","f":"🇲🇹","m":["malta","mt"],"c":false},
+    {"n":"Moldova","f":"🇲🇩","m":["moldova","md"],"c":false},
+    {"n":"Montenegro","f":"🇲🇪","m":["montenegro","me"],"c":false},
+    {"n":"Makedonia Utara","f":"🇲🇰","m":["north macedonia","mk"],"c":false},
+    {"n":"Polandia","f":"🇵🇱","m":["poland","pl"],"c":false},
+    {"n":"Rumania","f":"🇷🇴","m":["romania","ro"],"c":false},
+    {"n":"Serbia","f":"🇷🇸","m":["serbia","rs"],"c":false},
+    {"n":"Slowakia","f":"🇸🇰","m":["slovakia","sk"],"c":false},
+    {"n":"Slovenia","f":"🇸🇮","m":["slovenia","si"],"c":false},
+    {"n":"Ukraina","f":"🇺🇦","m":["ukraine","ua"],"c":false}
   ]
 }
