@@ -1,0 +1,6 @@
+[
+  {"n":"Indonesia","f":"🇮🇩","m":"indonesia","c":true},
+  {"n":"Malaysia","f":"🇲🇾","m":"malaysia","c":false},
+  {"n":"Amerika Serikat","f":"🇺🇸","m":["united states","america"],"c":false},
+  {"n":"Jerman","f":"🇩🇪","m":["germany","deutschland"],"c":false}
+]
